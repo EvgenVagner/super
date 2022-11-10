@@ -1,5 +1,6 @@
-
-![](./img/Git-logo.png)
+ 
+# ***GIT***
+![](https://git-scm.com/images/branching-illustration@2x.png)
 
 ---
 ***Git*** — *распределённая система управления версиями*.
@@ -16,4 +17,4 @@ _Git_ является распределенным. Не зависит от о
 
 Для установки *GIT* перейдите на [страницу](https://git-scm.com/download).
 
-< [к содержанию](./img/Git-logo.png)
+__[< к содержанию инструкции>](./img/Git-logo.png)__
