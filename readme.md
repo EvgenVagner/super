@@ -9,12 +9,7 @@ LICENSE: [MIT](./license.md)
 ---
 ### Содержание инструкции:
 1. [Информация о GIT](./git.md)
-2. [Основные команды]()
-   * [git add](./add.md)
-   * [git init](./init.md)
-   * [git push](./push.md)
-   * [git commit](./commit.md)
-
+2. [Основные команды](./basic.md)
 3. [GitHub](./github.md)   
 ---
 

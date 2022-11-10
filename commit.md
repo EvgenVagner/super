@@ -17,6 +17,8 @@ git commit -m "Name of commit"
 ```
 git commit -a "Name of commit"
 ```
-__[< к содержаню инструкции>](./readme.md)__
+__[< к содержаню инструкции >](./readme.md)__
 
-__[< информация о GIT>](.//git.md)__
+__[< информация о GIT >](./git.md)__
+
+__[< основные команды >](./basic.md)__
