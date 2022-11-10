@@ -7,8 +7,9 @@ LICENSE:[MIT](./license.md)
 
 ---
 ### Содержание инструкции:
-1. Информация о GIT
+1. [Информация о GIT](./git.md)
 2. [git add](./add.md)
+3. [git init](./init.md)
 
 ---
 
